@@ -31,15 +31,16 @@
 
 <img align="left" alt="onibenjo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Onibenjo&show_icons=true&hide_border=true&count_private=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onibenjo&langs_count=8)](https://github.com/onibenjo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onibenjo&langs_count=7&layout=compact)](https://github.com/onibenjo)
 
-
+<!--
 <a href="https://github.com/onibenjo">
   <img align="center" alt="onibenjo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Onibenjo&show_icons=true&hide_border=true&count_private=true" />
 </a>
 <a href="https://github.com/onibenjo">
   <img align="center" alt="onibenjo's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onibenjo&langs_count=8&layout=compact" />
 </a>
+-->
 
 [website]: https://www.onibenjamin.tk/
 [twitter]: https://twitter.com/onibenjo
