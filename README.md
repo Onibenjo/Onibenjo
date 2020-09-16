@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently developing a mobile app
 - 🌱 I’m currently learning advanced concepts of Software Engineering
-- ⚡ Fun fact: I love to listen songs.
+- ⚡ Hobbies: I love listening to songs and watching movies.
 
 **Connect with me:**
 
