@@ -1,7 +1,7 @@
 ## Hi, I'm [Onibenjo][website] 👋
 
 - 🔭 I’m currently developing a mobile app
-- 🌱 I’m currently learning advanced concepts of React Native
+- 🌱 I’m currently learning advanced concepts of Software Engineering
 - ⚡ Fun fact: I love to listen songs.
 
 **Connect with me:**
