@@ -29,14 +29,24 @@
 
 ---
 
-<img align="left" alt="onibenjo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Onibenjo&show_icons=true&hide_border=true" />
+<img align="left" alt="onibenjo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Onibenjo&show_icons=true&hide_border=true&count_private=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onibenjo&langs_count=8)](https://github.com/onibenjo)
+
+
+<a href="https://github.com/onibenjo">
+  <img align="center" alt="onibenjo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Onibenjo&show_icons=true&hide_border=true&count_private=true" />
+</a>
+<a href="https://github.com/onibenjo">
+  <img align="center" alt="onibenjo's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onibenjo&langs_count=8&layout=compact" />
+</a>
 
 [website]: https://www.onibenjamin.tk/
 [twitter]: https://twitter.com/onibenjo
 [facebook]: https://facebook.com/onibenjo
 [linkedin]: https://linkedin.com/in/onibenjo
 
-<--
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
