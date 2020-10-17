@@ -1,3 +1,14 @@
+# Hey there :wave:
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Onibenjo/count.svg" />
+</p>
+
+[![Visits Badge](https://badges.pufler.dev/visits/Onibenjo/Onibenjo)](https://badges.pufler.dev)
+
 ## Hi, I'm [Onibenjo][website] 👋
 
 - 🔭 I’m currently developing a mobile app
