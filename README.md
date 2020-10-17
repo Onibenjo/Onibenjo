@@ -23,9 +23,9 @@
 
 <p align="left"> <a href="https://twitter.com/onibenjo" target="blank"><img src="https://img.shields.io/twitter/follow/onibenjo?logo=twitter&style=for-the-badge" alt="onibenjo" /></a> </p>
 
-- 🔭 I’m currently working on [Medtech Africa](https://medtech.africa)
-
 - 👯 I’m open to work on projects **_**
+
+- 🔭 I’m currently working on [Medtech Africa](https://medtech.africa)
 
 - 📫 How to reach me **onibenjo.dev@gmail.com**
 
