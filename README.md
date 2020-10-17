@@ -9,13 +9,12 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/Onibenjo/Onibenjo)](https://badges.pufler.dev)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=onibenjo&label=Profile%20views&color=0e75b6&style=flat" alt="onibenjo" /> </p>
 <br />
 <br />
 
 <h1 align="center">Hi 👋, I'm Benjamin Oni</h1>
 <h3 align="center">A passionate software developer from Nigeria</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=onibenjo&label=Profile%20views&color=0e75b6&style=flat" alt="onibenjo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onibenjo" alt="onibenjo" /></a> </p>
 
