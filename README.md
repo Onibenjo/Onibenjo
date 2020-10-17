@@ -10,6 +10,9 @@
 [![Visits Badge](https://badges.pufler.dev/visits/Onibenjo/Onibenjo)](https://badges.pufler.dev)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onibenjo&label=Profile%20views&color=0e75b6&style=flat" alt="onibenjo" /> </p>
+
+![Latest blog post workflow](https://github.com/Onibenjo/Onibenjo/workflows/Latest%20blog%20post%20workflow/badge.svg)
+
 <br />
 <br />
 
