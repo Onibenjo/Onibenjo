@@ -37,7 +37,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Beginner’s guide to React Navigation v5 (Part 1)](https://medium.com/@onibenjo/beginners-guide-to-react-navigation-v5-part-1-c10b0900d444?source=rss-10030806cc64------2)
+- [Handling SPA subroute issue with Vercel](https://medium.com/@onibenjo/handling-spa-subroute-issue-with-vercel-27a4d6843af7?source=rss-10030806cc64------2)
+- [Beginner’s guide to React Navigation v5 &lpar;Part 1&rpar;](https://medium.com/@onibenjo/beginners-guide-to-react-navigation-v5-part-1-c10b0900d444?source=rss-10030806cc64------2)
 - [BUG REPORT ON Timbu.com](https://medium.com/@onibenjo/bug-report-on-timbu-com-6a870caff5ee?source=rss-10030806cc64------2)
 - [MY HNG INTERNSHIP TRIP](https://medium.com/@onibenjo/my-hng-internship-trip-34a5a971d904?source=rss-10030806cc64------2)
 <!-- BLOG-POST-LIST:END -->
