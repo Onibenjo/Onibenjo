@@ -1,5 +1,11 @@
 # Hey there :wave:
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eskatos/eskatos/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eskatos/eskatos/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
@@ -25,7 +31,7 @@
 
 - 👯 I’m open to work on projects **_**
 
-- 🔭 I’m currently working on [Medtech Africa](https://medtech.africa)
+<!-- - 🔭 I’m currently working on [Medtech Africa](https://medtech.africa) -->
 
 - 📫 How to reach me **onibenjo.dev@gmail.com**
 
